@@ -10,15 +10,15 @@ Porsche:
 BMW:
 Biergarten:
 Ratskeller:
-Dirndel:
-Lederhose:
-Schloss:
-wettbewerbsfaehig:
-Mehlhase:
-Gebaeck:
-Baeckerei
-Hund:
-Doener:
-Apfelkuchen:
-Schloss:
+Dirndel: dress
+Lederhose: short knee-length leather breeches
+Schloss: castle
+wettbewerbsfaehig: competitive
+Mehlhase: rabbit made of flour
+Gebaeck: pastry
+Baeckerei: bakery
+Hund: dog
+Doener: kebab
+Apfelkuchen: apple pie
+Schloss: castle
 Eltz:
