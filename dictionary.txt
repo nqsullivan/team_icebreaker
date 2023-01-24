@@ -20,6 +20,6 @@ Baeckerei
 Hund:
 Doener:
 Apfelkuchen:
-Schloss:
+Schloss: Lock
 Eltz:
 Gift: Poison
