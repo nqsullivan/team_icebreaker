@@ -1,10 +1,10 @@
 Raesfeld:
-Flughafen:
+Flughafen: Airport
 Berlin:
 Bratwurst:
-Hauptstrasse:
-Brot:
-Klimaanlage:
+Hauptstrasse: Main Road
+Brot: Bread
+Klimaanlage: Air Conditioning
 Rammstein:
 Porsche:
 BMW:
