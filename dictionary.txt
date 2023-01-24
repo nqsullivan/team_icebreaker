@@ -1,15 +1,15 @@
-Raesfeld:
+Raesfeld: Town
 Flughafen: Airport
-Berlin:
-Bratwurst:
+Berlin: Capitial of Germany
+Bratwurst: Sausage
 Hauptstrasse: Main Road
 Brot: Bread
 Klimaanlage: Air Conditioning
-Rammstein:
-Porsche:
-BMW:
-Biergarten:
-Ratskeller:
+Rammstein: Band
+Porsche: Car
+BMW: Car
+Biergarten: Beer Garden
+Ratskeller: Town Hall
 Dirndel: dress
 Lederhose: short knee-length leather breeches
 Schloss: castle
