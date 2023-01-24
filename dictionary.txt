@@ -9,7 +9,7 @@ Rammstein: Band
 Porsche: Car
 BMW: Car
 Biergarten: Beer Garden
-Ratskeller: Town Hall
+Ratskeller: restaurant located in the basement of a city hall
 Dirndel: dress
 Lederhose: short knee-length leather breeches
 Schloss: castle
