@@ -23,3 +23,5 @@ Apfelkuchen: apple pie
 Schloss: castle
 Eltz: a specific castle
 Gift: Poison
+Rainbow: Regenbogen
+Krankenwagen: Ambulance
