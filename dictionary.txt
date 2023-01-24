@@ -19,6 +19,4 @@ Gebaeck: pastry
 Baeckerei: bakery
 Hund: dog
 Doener: kebab
-Apfelkuchen: apple pie
-Schloss: castle
-Eltz:
+Gift: Poison
