@@ -19,7 +19,7 @@ Gebaeck:
 Baeckerei
 Hund:
 Doener:
-Apfelkuchen:
+Apfelkuchen: Apple cake
 Schloss: Lock
 Eltz:
 Gift: Poison
